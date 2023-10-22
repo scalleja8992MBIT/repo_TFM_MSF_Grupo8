@@ -1,6 +1,6 @@
 Repositorio con el codigo del TFM MBIT proyecto predición socios propensos a dejar el testamento a favor
 Aquí se incluyen los siguientes archivos:
-- Código fuente ETL
+- Código fuente ETL (carpeta notebooks/ETL)
 - Prototipo KNIME
 - Notebooks exploratorios, experimentación, prototipo
 - Ficheros fuente
